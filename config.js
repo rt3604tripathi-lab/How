@@ -1,0 +1,1 @@
+const THE_PICK_CONFIG={UPI_ID:"YOUR-UPI-ID@BANK",STORE_NAME:"SHOPGY",CURRENCY:"INR"};const PAYMENT_SETTINGS={cod:true,upi:true,onlinePayment:true};
